@@ -3,7 +3,12 @@
     {
       "title": "Back to the Future",
       "year": 1985,
-      "cast": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson", "Tom Wilson"]
+      "cast": [
+        "Michael J. Fox",
+        "Christopher Lloyd",
+        "Lea Thompson",
+        "Tom Wilson"
+      ]
     }
   ]
 }
