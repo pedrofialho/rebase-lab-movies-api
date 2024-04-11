@@ -2,7 +2,8 @@
   "movies": [
     {
       "title": "Back to the Future",
-      "year": 1985
+      "year": 1985,
+      "cast": ["Michael J. Fox", "Christopher Lloyd"]
     }
   ]
 }
