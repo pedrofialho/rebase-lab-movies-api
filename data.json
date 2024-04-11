@@ -2,7 +2,7 @@
   "movies": [
     {
       "title": "Back to the Future",
-      "director": "Robert Zemekis",
+      "director": "Robert Zemeckis",
       "year": 1985,
       "genre": [
         "Adventure",
