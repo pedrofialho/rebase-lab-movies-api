@@ -4,6 +4,10 @@
       "title": "Back to the Future",
       "director": "Robert Zemekis",
       "year": 1985,
+      "genre": [
+        "Adventure",
+        "Comedy"
+      ],
       "cast": ["Michael J. Fox", "Christopher Lloyd", "Lea Thompson"]
     }
   ]
