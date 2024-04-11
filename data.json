@@ -2,6 +2,7 @@
   "movies": [
     {
       "title": "Back to the Future",
+      "director": "Robert Zemekis",
       "year": 1985,
       "cast": ["Michael J. Fox", "Christopher Lloyd"]
     }
