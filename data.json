@@ -11,6 +11,12 @@
       "year": 1989,
       "director": "Robert Zemeckis",
       "cast": ["Michael J. Fox", "Christopher Lloyd"]
+    },
+    {
+      "title": "Back to the Future Part III",
+      "year": 1990,
+      "director": "Robert Zemeckis",
+      "cast": ["Michael J. Fox", "Christopher Lloyd"]
     }
   ]
 }
