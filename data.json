@@ -19,6 +19,12 @@
       "cast": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]
     },
     {
+      "title": "The Terminator",
+      "year": 1984,
+      "director": "James Cameron",
+      "cast": ["Arnold Schwarzenegger", "Michael Biehn", "Linda Hamilton"]
+    },
+    {
       "title": "The Time Machine",
       "year": 1960,
       "director": "George Pal",
