@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "title": "The Butterfly Effect",
+      "year": 2004,
+      "director": "Eric Bress",
+      "cast": ["Ashton Kutcher", "Amy Smart"]
+    },
+    {
       "title": "Harry Potter and the Prisoner of Azkaban",
       "year": 2004,
       "director": "Alfonso Cuarón",
