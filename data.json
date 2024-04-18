@@ -1,6 +1,12 @@
 {
   "movies": [
     {
+      "title": "Harry Potter and the Prisoner of Azkaban",
+      "year": 2004,
+      "director": "Alfonso Cuarón",
+      "cast": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]
+    },
+    {
       "title": "Back to the Future",
       "year": 1985,
       "director": "Robert Zemeckis",
