@@ -13,6 +13,12 @@
       "cast": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]
     },
     {
+      "title": "The Time Machine",
+      "year": 1960,
+      "director": "George Pal",
+      "cast": ["Rod Taylor", "Alan Young", "Yvette Mimieux", "Sebastian Cabot"]
+    },
+    {
       "title": "Back to the Future",
       "year": 1985,
       "director": "Robert Zemeckis",
